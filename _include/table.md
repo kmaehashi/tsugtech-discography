@@ -1,0 +1,21 @@
+| Catalog #   | Title                                                               | Artist                           | Release    | Remarks  | Link                                                            | 
+|-------------|---------------------------------------------------------------------|----------------------------------|------------|----------|-----------------------------------------------------------------| 
+| TGCA-0001   | “Princess Piccolo” Original Soundtrack [Remastered 2nd Edition]     | BUTAPUNCH PHILHARMONIC ORCHESTRA | 2012-03-31 |          | [Blog](http://blog.tsugumikataoka.com/?eid=215)                 | 
+| TGCA-0002   | おもいで列車                                                              | ひので155                           | 2012-12-31 | C83      | [Blog](http://blog.tsugumikataoka.com/?eid=266)                 | 
+| TGCA-0003   | 宇宙コンビニエンス                                                           | ツグ & ザ・ピクルス                      | 2012-08-11 | C82      | [Blog](http://blog.tsugumikataoka.com/?eid=234)                 | 
+| TGCA-0004   | スピンアウツ！                                                             | カタオカツグミ                          | 2013-12-31 | C85      | [Blog](http://blog.tsugumikataoka.com/?eid=296)                 | 
+| TGCA-0005   | 俺の足元に跪くがいい                                                          | ブタパンチ                            | 2014-08-17 | C86      | [Blog](http://blog.tsugumikataoka.com/?eid=300)                 | 
+| TGCA-0006   | ラセンカイダン                                                             | カタオカツグミ                          | 2015-08-16 | C88      | [Blog](http://blog.tsugumikataoka.com/?eid=309)                 | 
+| TGCA-0007   | Girly Collection                                                    | カタオカツグミ                          | 2016-08-14 | C90      | [Blog](http://blog.tsugumikataoka.com/?eid=312)                 | 
+| TGCA-0008   | PICO×PICO HAMMER                                                    | カタオカツグミ                          | 2018-08-10 | C94      | [Blog](http://blog.tsugumikataoka.com/?eid=315)                 | 
+| (TGCA-0009) | PUNCH-UP SYMPHONIA!                                                 | BUTAPUNCH PHILHARMONIC ORCHESTRA | n/a        |          | [Tweet](https://twitter.com/tsugsan/status/1035867462175215617) | 
+| (TGCA-0010) | Girly Collection 2 ~ IDOL FACTORY                                   | n/a                              | n/a        |          | [Tweet](https://twitter.com/punchtei/status/977606566110097408) | 
+|             |                                                                     |                                  |            |          |                                                                 | 
+| TGCA-9001   | “Princess Piccolo” Original Soundtrack [LIMITED PILOT EDITION]      | BUTAPUNCH PHILHARMONIC ORCHESTRA | 2011-12-31 | C81/CD-R | [Blog](http://blog.tsugumikataoka.com/?eid=171)                 | 
+| TGCA-9002   | “Princess Piccolo” Original Soundtrack [Remastered 2nd Edition] 復刻版 | BUTAPUNCH PHILHARMONIC ORCHESTRA | 2015-08-16 | C88/CD-R | [Tweet](https://twitter.com/tsugsan/status/628570638664339457)  | 
+| TGCA-9003   | Piano Lapse                                                         | カタオカツグミ                          | 2017-08-11 | C92/CD-R | [Tweet](https://twitter.com/tsugsan/status/894534897079009280)  | 
+| (TGCA-????) | "Stardust Wanderers" Original Soundtrack                            |                                  | n/a        |          | [Tweet](https://twitter.com/punchtei/status/660463919937384448) | 
+|             |                                                                     |                                  |            |          |                                                                 | 
+| TGCS-5001   | KING of the SEA -English Version- (Single)                          | ブタパンチ                            | 2013-08-12 | C84/CD-R | [Blog](http://blog.tsugumikataoka.com/?eid=289)                 | 
+| TGCS-5002   | 少女少年Complete "PREMIUM CD" (Single) 復刻版                              | やぶうち優                            | 2014-12-28 | C87/CD-R | [Blog](http://blog.tsugumikataoka.com/?eid=304)                 | 
+
