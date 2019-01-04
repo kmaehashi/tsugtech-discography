@@ -18,4 +18,5 @@
 |             |                                                                     |                                  |            |          |                                                                 | 
 | TGCS-5001   | KING of the SEA -English Version- (Single)                          | ブタパンチ                            | 2013-08-12 | C84/CD-R | [Blog](http://blog.tsugumikataoka.com/?eid=289)                 | 
 | TGCS-5002   | 少女少年Complete "PREMIUM CD" (Single) 復刻版                              | やぶうち優                            | 2014-12-28 | C87/CD-R | [Blog](http://blog.tsugumikataoka.com/?eid=304)                 | 
+| TGCS-5003   | Dream of You - CRYSTAL CLEAR (Single)                               | カタオカツグミ                   | 2018-12-30 | C95/CD-R | [Blog](http://blog.tsugumikataoka.com/?eid=316)                 | 
 
