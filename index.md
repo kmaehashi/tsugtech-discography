@@ -8,6 +8,7 @@ title: tsugtech-discography
 
 ### Where to get CDs?
 
+* [TSUGTECH ONLINE - BOOTH](https://tsugtech.booth.pm/)
 * [TANO*C STORE](http://www.tanocstore.net/shopbrand/TSUGTECH/)
 * [とらのあな](https://ec.toranoana.jp/tora_r/ec/cit/circle/2UPA3A6P887Kd46pd687/all/)
 * [DIVERSE DIRECT](https://diverse.direct/?s=TGCA)
